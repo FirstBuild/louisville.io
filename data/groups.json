@@ -58,6 +58,14 @@
 		"twitter": "Food4Nerds",
 		"calendar": "https://calendar.google.com/calendar/ical/jghri0j8rdpn7svv4tgecb7kl0%40group.calendar.google.com/public/basic.ics"
 	},
+	"first-build": {	
+		"name": "FirstBuild",
+		"web": "https://firstbuild.com/",
+		"calendar": "https://calendar.google.com/calendar/ical/firstbuild.com_kbqsplbk75kpou37fpv4stvm60%40group.calendar.google.com/public/basic.ics",
+		"twitter": "firstbuild",
+		"facebook": "https://www.facebook.com/thefirstbuild",
+		"description":"Invent a new world of home appliances by creating a socially engaged community of home enthusiasts, designers, engineers, and makers who will share ideas, try them out, and build real products to improve your life."
+	},
 	"game-dev-lou": {	
 		"name": "Game Dev Lou",
 		"frequency": "Meets every other Sunday @ 2pm",

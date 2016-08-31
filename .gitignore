@@ -4,4 +4,5 @@ ics
 dest
 data/events.json
 data/group-events/
-.DS_Store
+.DS_Storedefault.vim
+default.vim
